@@ -1,10 +1,10 @@
-# 🚀 **JobPrep++ – Your Placement Preparation Companion**  
+# 🚀 **Job_prep – Your Placement Preparation Companion**  
 
 🎯 **A quiz-based C++ application to help students prepare for technical interviews!**  
 
 ---
 
-## **📜 About JobPrep++**  
+## **📜 About Job_prep**  
 **JobPrep++** is a **C++**-based quiz application designed to assist students in **placement preparation**. It covers multiple programming languages and topics, providing a structured approach to technical interview practice.  
 
 ---
